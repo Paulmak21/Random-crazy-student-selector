@@ -101,7 +101,7 @@ function choosePerson() {
         alert(`The chosen one is ${choosenOne.nombre}`);
     }
     else {
-        alert("You didn't select anyone");
+        alert("Error, please select minimun 2 names");
     }
 }
 
